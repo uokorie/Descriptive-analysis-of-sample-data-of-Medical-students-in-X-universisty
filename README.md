@@ -1,4 +1,4 @@
-# Pivot-Table-and-Data-Visualization
+# The application of Pivot-Table-and-Data-Visualization to describe the Sample data of medical students in X University
 
 A pivot table is a powerful data analysis tool in Excel that allows users to summarize, analyze, and manipulate large datasets quickly and easily. 
 It enables users to create a dynamic, interactive summary report from a source data table, providing a consolidated view of the data.
